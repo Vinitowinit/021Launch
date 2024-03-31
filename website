@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>My Website</title>
+    <link rel="stylesheet" href="./style.css">
+    <link rel="icon" href="./favicon.ico" type="image/x-icon">
+  </head>
+  <body>
+    <main>
+        <h1>LaunchDesign</h1>  
+        <h2>What do we do?</h2>
+            <p> We are team of strategist, protocol designers, venture funds partners, protocol marketers focused on helping founders launch their protocol in 6 months or less since last round of funding. We primarily help companies in blockchain infrastructure, gaming infrastructure, and Defi improve current mechanism designs, create data-driven token distributions, finalize KOL rounds, build protocol farming strategies, and manage general protocol/token launch in market.  </p>
+        <h2>What are the main services your provide?</h2>
+            <p>We work with teams who are looking to launch their protocol and network token by November 2024. Here is what we can offer:</p>
+                <l1>Token Scoping, Token Utility, Timeline Development  </l1>
+                <l1>Company Narrative Development Process</l1>
+                <l1>Go-To-Market Narrative Process </l1>
+                <l1>Go-To-Market Token Proces </l1>
+                <l1>KOL/Marketing Engagemen </l1>
+                <l1>Token Distribution Materials</l1>
+                <l1>Legal Council/Entity Formation</l1>
+                <l1>Chain Architecture and Team Resourcing</l1>
+                <l1>Guided Token Launch</l1>
+                <l1>Market Maker Strucuture/Exchange Comms</l1>
+                <l1>Points Farm Strategy/Implementation to Product Launch</l1>
+            <p> Overview of <a href = "">services </a></p>
+            <h2>Reach out? </h2>
+                <p>tg: _______</p>
+    </main>
+	<script src="index.js"></script>
+  </body>
+</html>
